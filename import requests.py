@@ -1,7 +1,7 @@
 import requests
 
 # Substitua 'your-token-here' pelo seu GitHub PAT
-token1 = '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'
+token2 = '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'
 
 headers = {'Authorization': f'token {token}'}
 
