@@ -1,2 +1,2 @@
 # This is a fake secret key for testing purposes
-AWS_SECRET_ACCESS_KEY = "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"
+GIT_PAT = "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"
